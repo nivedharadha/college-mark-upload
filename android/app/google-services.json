@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610472951790",
+    "project_id": "pdf-upload-c7ea6",
+    "storage_bucket": "pdf-upload-c7ea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610472951790:android:1efed8c5e11e3cf5c198ff",
+        "android_client_info": {
+          "package_name": "com.example.igcestaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610472951790-u05qs8nnr0ace4fkk1lm8la3it42b414.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB86GEaqmXezPF6a_srNpZ2zC4HrslGj-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610472951790-u05qs8nnr0ace4fkk1lm8la3it42b414.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
